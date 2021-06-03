@@ -14,7 +14,7 @@
 
 #### 2. Теория вероятностей и математическая статистика
 
-Теория вероятностей. Вероятности. Плотность вероятности. Математическое ожидание и ковариация. Нормальное распределение. Статистика. Генеральная совокупность. Выборка. Выборочное распределение. Центральная предельная теорема. Оценка параметров генеральной совокупности. Доверительный интервал. Проверка гипотез. Общие сведения. Проверка гипотез со средним значением
+Теория вероятностей. Вероятности. Плотность вероятности. Математическое ожидание и ковариация. Нормальное распределение. Статистика. Генеральная совокупность. Выборка. Выборочное распределение. Центральная предельная теорема. Оценка параметров генеральной совокупности. Доверительный интервал. Проверка гипотез. Проверка гипотез со средним значением
 
 Семинары:
 
@@ -29,7 +29,8 @@
 Семинары:
 - [Обучение линейной регрессии: МНК, ГС, СГС](https://github.com/MLMethods/Practice/blob/master/notebooks/C3_Linear_Regression.ipynb)
 - [Линейная регрессия и статистический вывод](https://github.com/MLMethods/Practice/blob/master/notebooks/C3_Inference.ipynb)
-- [Линейная и полиномиальная регрессия](https://github.com/MLMethods/Practice/blob/master/notebooks/C5_Polynomial_Regression.ipynb)
+- [Полиномиальная регрессия](https://github.com/MLMethods/Practice/blob/master/notebooks/C5_Polynomial_Regression.ipynb)
+- [Пример с расходом топлива](https://github.com/MLMethods/Practice/blob/master/notebooks/C5_Linear_Regression_Fuel_Consumption.ipynb)
 
 #### 4. Градиентный спуск и стохастический градиентный спуск
 
@@ -53,7 +54,7 @@
 Регуляризация. L1 и L2 регуляризация в линейной регрессии.  Масштабирование значений признаков. Формулировка регуляризации через ограничение. Регуляризация логистической регрессии.
 
 Семинары:
-`TODO`
+- [Регуляризация и выбор модели](https://github.com/MLMethods/Practice/blob/master/notebooks/C6_Regularization.ipynb)
 
 #### 7. Повторные выборки
 
@@ -72,29 +73,46 @@
 - [Выбор признаков](https://github.com/MLMethods/Practice/blob/master/notebooks/C7_Feature_Selection.ipynb)
 
 
-#### 9. Метод опорных векторов и метод k-ближайших соседей
+#### 9. Метод опорных векторов
 
-`TODO`
+Опорные векторы и зазор. Разделяющая гиперплоскость. Расстояние от точки до гиперплоскости. Зазор и опорные векторы гиперплоскости. Метод опорных векторов для линейно разделимой выборки. Максимизация зазора. Прямая задача (primal problem). Двойственная задача (dual problem). Метод опорных векторов для линейно неразделимой выборки. Нелинейный случай. Алгоритмы обучения. Метод опорных векторов для задачи регрессии
 
-#### 10. Байесовская линейная регрессия
+#### 10. Наивный байесовский классификатор
 
-`TODO`
+Метод максимального правдоподобия. Оценка апостериорного максимума. Наивный байесовский классификатор. Распределение Гаусса. Распределение Бернулли. Полиномиальное распределение.
 
-#### 11. Наивный байесовский классификатор
+Семинары:
+- [Классификация текстов](https://github.com/MLMethods/Practice/blob/master/notebooks/C7_Text_Classification.ipynb)
+
+#### 11. Байесовская линейная регрессия и метод k-ближайших соседей
 
 `TODO`
 
 #### 12. Деревья решений и ансамбли методов
 
-`TODO`
+Деревья решений для задачи регрессии. Построение бинарного дерева решений. Подрезка деревьев (pruning). Деревья решений для задачи классификации. Сравнение с линейными методами. Бэггинг, случайный лес, сверхслучайные деревья, бустинг, стекинг.
+
+Семинары:
+- [Деревья решений и их ансамбли](https://github.com/MLMethods/Practice/blob/master/notebooks/C5_DT.ipynb)
+- [Пример с предсказанием покупок](https://github.com/MLMethods/Practice/blob/master/notebooks/C5_DT_Purchase.ipynb)
+
 
 #### 13. Кластеризация
 
 `TODO`
 
+Семинары:
+
+- [Основные методы](https://github.com/MLMethods/Practice/blob/master/notebooks/C8_Clustering.ipynb)
+- [Определение количества кластеров](https://github.com/MLMethods/Practice/blob/master/notebooks/C8_Number_of_Clusters.ipynb)
+
 #### 14. Уменьшение размерности и метод главных компонент
 
 `TODO`
+
+Семинары:
+
+- [Метод главных компонент и уменьшение размерности](https://github.com/MLMethods/Practice/blob/master/notebooks/C8_PCA.ipynb)
 
 #### 15. Рекомендательные системы
 
@@ -102,9 +120,11 @@
 
 #### 16. Распределенные алгоритмы
 
-Распределенное вычисление основных статистик (среднее значение и стандартное отклонение). Распределенное вычисление косинусного сходства. Распределенный градиентный спуск. Стохастический градиентный спуск. Параллельный стохастический градиентный спуск. Алгоритм HogWild!. Алгоритм стохастического градиентного спуска в системе Spark.   Распределенная факторизация матрицы посредством ALS. 
+Распределенное вычисление основных статистик (среднее значение и стандартное отклонение). Распределенное вычисление косинусного сходства. Распределенный градиентный спуск. Стохастический градиентный спуск. Параллельный стохастический градиентный спуск. Алгоритм HogWild!. Алгоритм стохастического градиентного спуска в системе Spark.   Распределенная факторизация матрицы посредством ALS
 
 #### 17. Нейронные сети
+
+Перцептрон. Функции активации. Многослойные нейронные сети. Метод обратного распространения ошибки. Сверточные нейронные сети. рекуррентные нейронные сети.
 
 `TODO`
 
@@ -116,20 +136,24 @@
 ## Примеры распределенных алгоритмов
 
 - [Стохастический градиентный спуск](https://github.com/BigDataProcSystems/Lectures/blob/master/Spark_MLlib_Distributed_SGD.pdf)
-- [Наивный байесовский классификатор: полиномиальная модель](https://github.com/BigDataProcSystems/Lectures/blob/master/Spark_MLlib_NaiveBayes.pdf)
+- [Наивный байесовский классификатор: мультиномиальная модель](https://github.com/BigDataProcSystems/Lectures/blob/master/Spark_MLlib_NaiveBayes.pdf)
 - [Рекомендательные системы: факторизация матрицы](https://github.com/BigDataProcSystems/Lectures/blob/master/BigData_ML_RecomSystems.pdf)
 
 
 ## Основная литература
 
 - An Introduction to Statistical Learning by Gareth James, Daniela Witten, Trevor Hastie, Robert Tibshir. URL: http://faculty.marshall.usc.edu/gareth-james/ISL/
-- The Elements of Statistical Learning by Trevor Hastie, Robert Tibshirani, Jerome Friedman. pp. 219–257. URL: https://web.stanford.edu/~hastie/ElemStatLearn/
+- The Elements of Statistical Learning by Trevor Hastie, Robert Tibshirani, Jerome Friedman. URL: https://web.stanford.edu/~hastie/ElemStatLearn/
 - Christopher M. Bishop. 2006. Pattern Recognition and Machine Learning (Information Science and Statistics). Springer-Verlag, Berlin, Heidelberg. URL: https://www.microsoft.com/en-us/research/uploads/prod/2006/01/Bishop-Pattern-Recognition-and-Machine-Learning-2006.pdf
 - Speech and Language Processing. Daniel Jurafsky & James H. Martin URL: https://web.stanford.edu/~jurafsky/slp3/
 - Nocedal, Jorge and Wright, Stephen J.. Numerical optimization. 2. ed. New York, NY: Springer, 2006.
 - Francesco Ricci, Lior Rokach, Bracha Shapira, and Paul B. Kantor. 2010. Recommender Systems Handbook (1st. ed.). Springer-Verlag, Berlin, Heidelberg
 
-## Онлайн-курсы, блоги, статьи и пр.
+## Документация
+
+- [Sklearn: User Guide](https://scikit-learn.org/stable/user_guide.html)
+
+## Онлайн-курсы, статьи, блоги и пр.
 
 - [Machine Learning](https://www.coursera.org/learn/machine-learning) (для начинающих)
 - [MachineLearning.ru](http://www.machinelearning.ru)
