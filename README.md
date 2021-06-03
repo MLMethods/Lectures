@@ -99,7 +99,7 @@
 
 #### 13. Кластеризация
 
-`TODO`
+Постановка задачи кластеризации. Метод k-средних. Минимизация внутрикластерного расстояния. Алгоритм метода k-средних. Иерархическая кластеризация. Агломеративный подход. Алгоритм построения дендрограммы. Способы определения расстояния между двумя кластерами. Меры сходства/различия двух наблюдений. 
 
 Семинары:
 
@@ -107,6 +107,8 @@
 - [Определение количества кластеров](https://github.com/MLMethods/Practice/blob/master/notebooks/C8_Number_of_Clusters.ipynb)
 
 #### 14. Уменьшение размерности и метод главных компонент
+
+Постановка задачи. Метод главных компонент. Преобразование и диагонализация матрицы. Матрица ковариации. Условия и ограничения метода главных компонент. Уменьшение размерности посредством метода главных компонент. Линейная регрессия с использованием метода главных компонент.
 
 `TODO`
 
@@ -116,7 +118,11 @@
 
 #### 15. Рекомендательные системы
 
-`TODO`
+Постановка задачи и основные обозначения. Рекомендации на основе контента. Векторное представление данных и определение сходства. Коллаборативная фильтрация. Способы определения сходства между пользователями и предсказание рейтинга. Способы определения сходства между товарами и предсказание рейтинга. Сравнение подходов коллаборативной фильтрации. Факторизация матрицы рейтингов. Метод наименьших квадратов с чередованием (ALS).
+
+Семинары:
+
+- `TODO`
 
 #### 16. Распределенные алгоритмы
 
@@ -143,7 +149,7 @@
 ## Основная литература
 
 - An Introduction to Statistical Learning by Gareth James, Daniela Witten, Trevor Hastie, Robert Tibshir. URL: http://faculty.marshall.usc.edu/gareth-james/ISL/
-- The Elements of Statistical Learning by Trevor Hastie, Robert Tibshirani, Jerome Friedman. URL: https://web.stanford.edu/~hastie/ElemStatLearn/
+- The Elements of Statistical Learning by Trevor Hastie, Robert Tibshirani, Jerome Friedman. URL: https://web.stanford.edu/~hastie/ElemStatLearn/ или в переводе: Хасти Т., Тибришани Р. Основы статистического обучения : интеллектуальный анализ данных, логический вывод и прогнозирование
 - Christopher M. Bishop. 2006. Pattern Recognition and Machine Learning (Information Science and Statistics). Springer-Verlag, Berlin, Heidelberg. URL: https://www.microsoft.com/en-us/research/uploads/prod/2006/01/Bishop-Pattern-Recognition-and-Machine-Learning-2006.pdf
 - Speech and Language Processing. Daniel Jurafsky & James H. Martin URL: https://web.stanford.edu/~jurafsky/slp3/
 - Nocedal, Jorge and Wright, Stephen J.. Numerical optimization. 2. ed. New York, NY: Springer, 2006.
