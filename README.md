@@ -153,11 +153,17 @@
 - Christopher M. Bishop. 2006. Pattern Recognition and Machine Learning (Information Science and Statistics). Springer-Verlag, Berlin, Heidelberg. URL: https://www.microsoft.com/en-us/research/uploads/prod/2006/01/Bishop-Pattern-Recognition-and-Machine-Learning-2006.pdf
 - Speech and Language Processing. Daniel Jurafsky & James H. Martin URL: https://web.stanford.edu/~jurafsky/slp3/
 - Nocedal, Jorge and Wright, Stephen J.. Numerical optimization. 2. ed. New York, NY: Springer, 2006.
+- Introduction to Information Retrieval by Christopher D. Manning, Prabhakar Raghavan and Hinrich Schutze, Cambridge University Press. 2008. URL: http://www-nlp.stanford.edu/IR-book/
 - Francesco Ricci, Lior Rokach, Bracha Shapira, and Paul B. Kantor. 2010. Recommender Systems Handbook (1st. ed.). Springer-Verlag, Berlin, Heidelberg
 
 ## Документация
 
 - [Sklearn: User Guide](https://scikit-learn.org/stable/user_guide.html)
+
+## Статистика
+
+- [OpenIntro Statistics](https://www.openintro.org/book/os/)
+- [Fundamentals of statistics](https://www.statlect.com/fundamentals-of-statistics/)
 
 ## Онлайн-курсы, статьи, блоги и пр.
 
