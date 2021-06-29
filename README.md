@@ -148,10 +148,11 @@
 
 ## Основная литература
 
-- An Introduction to Statistical Learning by Gareth James, Daniela Witten, Trevor Hastie, Robert Tibshir. URL: http://faculty.marshall.usc.edu/gareth-james/ISL/
+- An Introduction to Statistical Learning by Gareth James, Daniela Witten, Trevor Hastie, Robert Tibshir. URL: https://www.statlearning.com/
 - The Elements of Statistical Learning by Trevor Hastie, Robert Tibshirani, Jerome Friedman. URL: https://web.stanford.edu/~hastie/ElemStatLearn/ или в переводе: Хасти Т., Тибришани Р. Основы статистического обучения : интеллектуальный анализ данных, логический вывод и прогнозирование
 - Christopher M. Bishop. 2006. Pattern Recognition and Machine Learning (Information Science and Statistics). Springer-Verlag, Berlin, Heidelberg. URL: https://www.microsoft.com/en-us/research/uploads/prod/2006/01/Bishop-Pattern-Recognition-and-Machine-Learning-2006.pdf
 - Speech and Language Processing. Daniel Jurafsky & James H. Martin URL: https://web.stanford.edu/~jurafsky/slp3/
+- Mining of Massive Datasets by Jure Leskovec, Anand Rajaraman, Jeff Ullman. URL: http://www.mmds.org/
 - Nocedal, Jorge and Wright, Stephen J.. Numerical optimization. 2. ed. New York, NY: Springer, 2006.
 - Introduction to Information Retrieval by Christopher D. Manning, Prabhakar Raghavan and Hinrich Schutze, Cambridge University Press. 2008. URL: http://www-nlp.stanford.edu/IR-book/
 - Francesco Ricci, Lior Rokach, Bracha Shapira, and Paul B. Kantor. 2010. Recommender Systems Handbook (1st. ed.). Springer-Verlag, Berlin, Heidelberg
