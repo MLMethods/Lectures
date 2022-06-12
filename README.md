@@ -42,21 +42,21 @@
 - [Обучение линейной регрессии: МНК, ГС, СГС](https://github.com/MLMethods/Practice/blob/master/notebooks/C3_Linear_Regression.ipynb)
 
 
-#### 5. Логистическая регрессия
+#### 5. [Логистическая регрессия](https://drive.google.com/file/d/1chE98mSrBHYfx9xTiGuoFwlm-ttGPDOF/view?usp=sharing)
 Классификация. Логистическая регрессия. Распределение Бернулли. Метод максимального правдоподобия. Градиентный спуск и стохастический градиентный спуск для логистической регрессии. Многоклассовая классификация. Полиномиальная логистическая регрессия (softmax регрессия). Подходы one-vs-rest и one-vs-one.
 
 Семинары:
 - [Логистическая регрессия](https://github.com/MLMethods/Practice/blob/master/notebooks/C5_Logistic_Regression.ipynb)
 - [Классификация с несбалансированной выборкой](https://github.com/MLMethods/Practice/blob/master/notebooks/C5_Imbalanced_Classification.ipynb)
 
-#### 6. Регуляризация линейной регрессии и логистической регрессии
+#### 6. [Регуляризация линейной регрессии и логистической регрессии](https://drive.google.com/file/d/176lMx6lD5qngK9La3TleC-Ahz9InsHYU/view?usp=sharing)
 
 Регуляризация. L1 и L2 регуляризация в линейной регрессии.  Масштабирование значений признаков. Формулировка регуляризации через ограничение. Регуляризация логистической регрессии.
 
 Семинары:
 - [Регуляризация и выбор модели](https://github.com/MLMethods/Practice/blob/master/notebooks/C6_Regularization.ipynb)
 
-#### 7. Повторные выборки
+#### 7. [Повторные выборки](https://drive.google.com/file/d/1RsiL-Adku3pTLwRqx14HpYMIQ6n00e4P/view?usp=sharing)
 
 Повторные выборки. Оценка качества предсказания и выбор моделей. Отложенное множество. Кросс-валидация c leave-one-out (LOOCV). Кросс-валидация c k-Folds. Кросс-валидация для задачи классификации. Бутстреп (Bootstrap).
 
@@ -155,6 +155,7 @@
 - Christopher M. Bishop. 2006. Pattern Recognition and Machine Learning (Information Science and Statistics). Springer-Verlag, Berlin, Heidelberg. URL: https://www.microsoft.com/en-us/research/uploads/prod/2006/01/Bishop-Pattern-Recognition-and-Machine-Learning-2006.pdf
 - Speech and Language Processing. Daniel Jurafsky & James H. Martin URL: https://web.stanford.edu/~jurafsky/slp3/
 - Mining of Massive Datasets by Jure Leskovec, Anand Rajaraman, Jeff Ullman. URL: http://www.mmds.org/
+- Hands-on Machine Learning with Scikit-Learn, Keras, and TensorFlow by Aurélien Géron
 - Nocedal, Jorge and Wright, Stephen J.. Numerical optimization. 2. ed. New York, NY: Springer, 2006.
 - Introduction to Information Retrieval by Christopher D. Manning, Prabhakar Raghavan and Hinrich Schutze, Cambridge University Press. 2008. URL: http://www-nlp.stanford.edu/IR-book/
 - Francesco Ricci, Lior Rokach, Bracha Shapira, and Paul B. Kantor. 2010. Recommender Systems Handbook (1st. ed.). Springer-Verlag, Berlin, Heidelberg
