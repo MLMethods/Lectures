@@ -170,10 +170,6 @@
 - Introduction to Information Retrieval by Christopher D. Manning, Prabhakar Raghavan and Hinrich Schutze, Cambridge University Press. 2008. URL: http://www-nlp.stanford.edu/IR-book/
 - Francesco Ricci, Lior Rokach, Bracha Shapira, and Paul B. Kantor. 2010. Recommender Systems Handbook (1st. ed.). Springer-Verlag, Berlin, Heidelberg
 
-## Документация
-
-- [Sklearn: User Guide](https://scikit-learn.org/stable/user_guide.html)
-
 ## Статистика
 
 - [OpenIntro Statistics](https://www.openintro.org/book/os/)
@@ -182,8 +178,18 @@
 ## Онлайн-курсы, статьи, блоги и пр.
 
 - [Machine Learning](https://www.coursera.org/learn/machine-learning) (для начинающих)
+- [Учебник по машинному обучению](https://education.yandex.ru/handbook/ml)
 - [MachineLearning.ru](http://www.machinelearning.ru)
 - [АНАЛИЗ МАЛЫХ ДАННЫХ. КвазиНаучный блог Александра Дьяконова](https://dyakonov.org/)
 - [Машинное обучение (курс лекций, К.В.Воронцов)](http://www.machinelearning.ru/wiki/index.php?title=%D0%9C%D0%B0%D1%88%D0%B8%D0%BD%D0%BD%D0%BE%D0%B5_%D0%BE%D0%B1%D1%83%D1%87%D0%B5%D0%BD%D0%B8%D0%B5_%28%D0%BA%D1%83%D1%80%D1%81_%D0%BB%D0%B5%D0%BA%D1%86%D0%B8%D0%B9%2C_%D0%9A.%D0%92.%D0%92%D0%BE%D1%80%D0%BE%D0%BD%D1%86%D0%BE%D0%B2%29)
 
+## Библиотеки и документация
+
+- [Sklearn: User Guide](https://scikit-learn.org/stable/user_guide.html)
+- [TensorFlow: Учебные материалы](https://www.tensorflow.org/tutorials?hl=en)
+- [Keras: Примеры](https://keras.io/examples/)
+- [Hugging Face: Учебные материалы](https://huggingface.co/learn)
+
 `TODO: extend the list`
+
+
