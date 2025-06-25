@@ -95,7 +95,7 @@
 
 Семинары:
 - [Классификация текстов](https://github.com/MLMethods/Practice/blob/master/notebooks/C7_Text_Classification.ipynb)
-
+- [Распознавание языка текста](https://github.com/MLMethods/Practice/blob/master/notebooks/C5_Language_Detector.ipynb)
 
 #### 11. [Деревья решений и ансамбли методов](https://drive.google.com/file/d/1TfTx90jFs1Pl2JbiAsU2YlwLR4X3ybMV/view?usp=sharing)
 
@@ -104,8 +104,8 @@
 Семинары:
 - [Деревья решений и их ансамбли](https://github.com/MLMethods/Practice/blob/master/notebooks/C5_DT.ipynb)
 - [Деревья решений для задачи регрессии](https://github.com/MLMethods/Practice/blob/master/notebooks/C5_DT_Housing.ipynb)
+- [Распознавание активности (HAR)](https://github.com/MLMethods/Practice/blob/master/notebooks/C5_HAR.ipynb)
 - [Пример с предсказанием покупок](https://github.com/MLMethods/Practice/blob/master/notebooks/C5_DT_Purchase.ipynb)
-
 
 #### 12. [Нейронные сети](https://drive.google.com/file/d/1u4dcgIlHve6zD5JJdK6z3j8cFwHA1AHs/view?usp=sharing)
 
@@ -114,6 +114,7 @@
 Семинары:
 - [Нейронные сети](https://github.com/MLMethods/Practice/blob/master/notebooks/nn/C5_NN.ipynb)
 - [Векторное представление слов](https://github.com/MLMethods/Practice/blob/master/notebooks/nn/C5_NN_Embedding.ipynb)
+- [Предобученные модели](https://github.com/MLMethods/Practice/blob/master/notebooks/nn/C5_NN_Pretrained.ipynb)
 
 #### 13. [Кластеризация](https://drive.google.com/file/d/1GdrLGvdhRcrQ9uTiGSSwlvvKSr2_YIMz/view?usp=sharing)
 
